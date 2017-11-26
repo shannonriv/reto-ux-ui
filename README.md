@@ -9,7 +9,9 @@ Explicar las partes que conforman UX y UI de la siguiente página:
 ## Pinterest
 
 ![Sin titulo](assets/images/pinterest-screenshot.png)
+
 ![Sin titulo](assets/images/pinterest-clic-screenshot.png)
+
 ![Sin titulo](assets/images/pinterest-recomendation-screenshot.png)
 
 |             UX          |            UI          |
